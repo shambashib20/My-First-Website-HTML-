@@ -1,0 +1,1 @@
+document.write("<h1>Coding Gurukul<h1>");
